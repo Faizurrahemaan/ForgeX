@@ -1,18 +1,18 @@
 # Specify a file as Python even if it has a .txt extension
-*.ForgeX linguist-language=ForgeX
+*.ForgeX linguist-language=requirements.txt
 # Specify a file as Python even if it has a .txt extension
-*.ForgeXcss linguist-language=ForgeX
+*.ForgeXcss linguist-language=css
 # Specify a file as Python even if it has a .txt extension
-*.ForgeXjs linguist-language=ForgeX
+*.ForgeXjs linguist-language=javascript
 # Specify a file as Python even if it has a .txt extension
-*.ForgeXpy linguist-language=ForgeX
+*.ForgeXpy linguist-language=python
 # Specify a file as Python even if it has a .txt extension
-*.ForgeXhtml linguist-language=ForgeX
+*.ForgeXhtml linguist-language=html
 # Specify a file as Python even if it has a .txt extension
-*.ForgeXts linguist-language=ForgeX
+*.ForgeXts linguist-language=typescript
 # Specify a file as Python even if it has a .txt extension
-*.ForgeX linguist-language=ForgeX
+*.ForgeX linguist-language=requirements.txt
 # Specify a file as Python even if it has a .txt extension
-*.ForgeXjson linguist-language=ForgeX
+*.ForgeXjson linguist-language=json
 # Specify a file as Python even if it has a .txt extension
-*.ForgeXphp linguist-language=ForgeX
+*.ForgeXphp linguist-language=php
